@@ -116,7 +116,7 @@ free(temp);
 int main()
 {
 
-Node *head=new Node;
+Node *head=new Node();
 head=NULL;
 int choice=0,pos=0;
 
